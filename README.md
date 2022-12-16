@@ -7,7 +7,7 @@ pip install PySide6
 pip install yeelight
 ```
 
-set your bulb's local ipv4 address
+Set your bulb's local ipv4 address
 
 ```bash
 bulb = Bulb("192.168.0.1")
